@@ -15,7 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/saurabh-singh-bu)
 [![Email](https://img.shields.io/badge/Email-Contact-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:saurabhsingh052005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/SaurabhSinghRajput-8777)
+
 
 
 
@@ -90,6 +90,10 @@ I enjoy solving complex engineering problems where software architecture, perfor
 
 <div align="center">
 
+<a href="https://codolio.com/profile/Saurabh_8777">
+<img src="https://img.shields.io/badge/Codolio-Portfolio-7C3AED?style=for-the-badge"/>
+</a>
+
 <a href="https://leetcode.com/u/saurabh_8777">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
@@ -102,9 +106,6 @@ I enjoy solving complex engineering problems where software architecture, perfor
 <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge"/>
 </a>
 
-<a href="https://codolio.com/profile/Saurabh_8777">
-<img src="https://img.shields.io/badge/Codolio-Portfolio-7C3AED?style=for-the-badge"/>
-</a>
 
 ---
 <div align="left">
