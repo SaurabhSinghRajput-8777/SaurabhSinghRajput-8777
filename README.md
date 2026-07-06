@@ -72,19 +72,6 @@ I enjoy solving complex engineering problems where software architecture, perfor
 
 ---
 
-## 🟣 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🏆 **1st Place — Hack Auction** | Infuturum 4.0, ACM Bennett University |
-| 🌐 **Top 3% Globally — GSSoC 2026** | Ranked #1,307 out of 43,566 participants |
-| 💻 **150+ DSA Problems Solved** | LeetCode Contest Rating 1414 · 50-Day Streak Badge |
-
-</div>
-
----
 ## 🟣 Leadership
 
 <div align="center">
@@ -109,10 +96,6 @@ I enjoy solving complex engineering problems where software architecture, perfor
 
 <a href="https://www.geeksforgeeks.org/profile/s24cseqjcc">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/saurabh_8777">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
 </a>
 
 <a href="https://codeforces.com/profile/Saurabh_052005">
@@ -156,25 +139,6 @@ I enjoy solving complex engineering problems where software architecture, perfor
 
 ---
 
-## 🟣 Current Focus
-
-```yaml
-learning:
-  - Advanced Distributed Systems Design
-  - Deep Learning for Video-Modality Analysis
-building:
-  - Systematic Literature Review — Video-Modality Depression Detection
-  - Production-grade event-driven clinical SaaS pipelines
-exploring:
-  - Foundation Models for Computer Vision
-  - Retrieval-Augmented Generation (RAG) architectures
-open_to:
-  - SDE Internships — Summer 2027
-  - AI/ML Research Collaborations
-  - Open Source Contributions
-```
-<div/>
----
 
 ## 🟣 Connect With Me
 
